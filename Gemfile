@@ -2,4 +2,5 @@ source :rubygems
 
 gemspec
 
-gem "pathstring", git: "micasasucasa@git.lacravate.fr:git/pathstring", branch: 'wip'
+gem "pedlar", git: "https://github.com/lacravate/pedlar.git"
+gem "pathstring", git: "https://github.com/lacravate/pathstring.git"

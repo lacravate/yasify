@@ -2,6 +2,9 @@
 
 require "pathstring"
 
+# No comment here. Go see Pathstring source to understand
+# 39 lines of code, including a good bunch of blank lines
+# that's too beautiful to look at to mar it with comments
 class Yasify < Pathstring
 
   def read

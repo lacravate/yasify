@@ -1,5 +1,7 @@
 # encoding: utf-8
 
+require 'yaml'
+
 require "pathstring"
 
 # No comment here. Go see Pathstring source to understand
